@@ -1,6 +1,6 @@
 # r2conCTF2020
 
-# Writeup
+## Writeup
 
  - [eXit, Easy, 50](Easy/EXIT/README.md)
  - [Defuse, Easy, 50](Easy/DEFUSE/README.md)
