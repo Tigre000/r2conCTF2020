@@ -1,0 +1,5 @@
+We called to EDU (Explosives Disposal Unit), however they are not able to defuse this bomb that is going to end with all of us.
+
+Could you find the key to defuse it?
+
+Format flag: r2con{key_found}

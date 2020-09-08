@@ -1,0 +1,3 @@
+A Radare Corporation employee has leaked the internal license checking tool for the new version of Radare Pro for Windows. Only YOU can you crack the licensing scheme and make sure Radare remains free!
+
+The flag format should be given as: r2con{flag_found}.

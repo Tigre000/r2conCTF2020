@@ -1,0 +1,3 @@
+Pancake has protected his corporate secrets with the new Cyberlock 3000. It's said to be unbreakable but we think you have what it takes so go pick the lock!
+
+This challenge is also available via docker: https://hub.docker.com/repository/docker/grantdouglas/r2cyberlock
