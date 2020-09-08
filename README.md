@@ -1,5 +1,9 @@
 # r2conCTF2020
 
+[CTF Site](https://ctf.radare.org/)
+[Scoreboard](https://ctf.radare.org/scoreboard)
+![scoreboard](scoreboard.png "scoreboard")
+
 ## Writeup
 
  - [eXit, Easy, 50](Easy/EXIT/README.md)
