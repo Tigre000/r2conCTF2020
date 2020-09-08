@@ -15,3 +15,8 @@ for i in range(0, len(arr)):
                 print(input_str, end='')
             count += 1
 print('}')
+
+# from itertools import product
+# 
+# for a in product("prxz", "aio", "ln", "ce"):
+#     print(''.join(a))
